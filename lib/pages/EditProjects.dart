@@ -1,5 +1,4 @@
 import 'package:enactus_thapar/models/projects.dart';
-import 'package:enactus_thapar/pages/OnGoingProjects.dart';
 import 'package:enactus_thapar/providers/project_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

@@ -1,4 +1,4 @@
-package com.example.enactus_thapar
+package com.enactus.enactus_thapar
 
 import io.flutter.embedding.android.FlutterActivity
 

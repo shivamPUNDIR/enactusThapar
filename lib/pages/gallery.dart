@@ -4,6 +4,8 @@ import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 
 class Gallery extends StatelessWidget {
+  StorageReference photoref = FirebaseStorage.instance.ref().child("photos");
+
   Widget makeImageGrid() {
     return GridView.builder(
         itemCount: 6,

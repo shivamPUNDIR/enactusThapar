@@ -17,8 +17,8 @@ class _HomepageState extends State<Homepage> {
     OnGoingProjects(),
     CoronaTracker(),
     Home(),
-    Volunteer(),
     Gallery(),
+    Volunteer(),
   ];
 
   void onTappedBar(int index) {
